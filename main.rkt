@@ -71,4 +71,4 @@
                                 (+ 1 i))))))
 
 
-(send target save-file "images/test.png" 'png)
+(send target save-file "images/rectangles.png" 'png)
